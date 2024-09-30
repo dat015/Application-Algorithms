@@ -1,0 +1,15 @@
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\bin\Debug\net8.0\Baitap01.exe
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\bin\Debug\net8.0\Baitap01.deps.json
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\bin\Debug\net8.0\Baitap01.runtimeconfig.json
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\bin\Debug\net8.0\Baitap01.dll
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\bin\Debug\net8.0\Baitap01.pdb
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\Baitap01.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\Baitap01.AssemblyInfoInputs.cache
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\Baitap01.AssemblyInfo.cs
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\Baitap01.csproj.CoreCompileInputs.cache
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\Baitap01.sourcelink.json
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\Baitap01.dll
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\refint\Baitap01.dll
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\Baitap01.pdb
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\Baitap01.genruntimeconfig.cache
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\ref\Baitap01.dll
