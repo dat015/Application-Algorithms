@@ -12,5 +12,7 @@ Console.WriteLine("Bài 32");
 bai32.run32();
 Console.WriteLine("Bài 33");
 clientTest_33.run33();
+Console.WriteLine("Bài 34");
+bai34.run34();
 
 
