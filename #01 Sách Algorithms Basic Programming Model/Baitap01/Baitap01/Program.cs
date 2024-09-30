@@ -8,4 +8,9 @@ Console.WriteLine("Bài 30");
 bai30.run30();
 Console.WriteLine("Bài 31");
 bai31.run31();
+Console.WriteLine("Bài 32");
+bai32.run32();
+Console.WriteLine("Bài 33");
+clientTest_33.run33();
+
 

@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|d:\\applicationalgorithms\\application-algorithms\\#01 s\u00E1ch algorithms basic programming model\\baitap01\\baitap01\\bai31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|solutionrelative:baitap01\\bai31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|d:\\applicationalgorithms\\application-algorithms\\#01 s\u00E1ch algorithms basic programming model\\baitap01\\baitap01\\bai34.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|solutionrelative:baitap01\\bai34.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|d:\\applicationalgorithms\\application-algorithms\\#01 s\u00E1ch algorithms basic programming model\\baitap01\\baitap01\\bai33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|solutionrelative:baitap01\\bai33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|d:\\applicationalgorithms\\application-algorithms\\#01 s\u00E1ch algorithms basic programming model\\baitap01\\baitap01\\clienttest_33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|solutionrelative:baitap01\\clienttest_33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|d:\\applicationalgorithms\\application-algorithms\\#01 s\u00E1ch algorithms basic programming model\\baitap01\\baitap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|solutionrelative:baitap01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|d:\\applicationalgorithms\\application-algorithms\\#01 s\u00E1ch algorithms basic programming model\\baitap01\\baitap01\\bai31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|solutionrelative:baitap01\\bai31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|d:\\applicationalgorithms\\application-algorithms\\#01 s\u00E1ch algorithms basic programming model\\baitap01\\baitap01\\bai30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|solutionrelative:baitap01\\bai30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|d:\\applicationalgorithms\\application-algorithms\\#01 s\u00E1ch algorithms basic programming model\\baitap01\\baitap01\\bai32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|solutionrelative:baitap01\\bai32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7537D6A-BA9D-4633-BD7D-904221158821}|Baitap01\\Baitap01.csproj|d:\\applicationalgorithms\\application-algorithms\\#01 s\u00E1ch algorithms basic programming model\\baitap01\\baitap01\\bai29.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,19 +55,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "bai34.cs",
+              "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\bai34.cs",
+              "RelativeDocumentMoniker": "Baitap01\\bai34.cs",
+              "ToolTip": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\bai34.cs",
+              "RelativeToolTip": "Baitap01\\bai34.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:20:42.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clientTest_33.cs",
+              "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\clientTest_33.cs",
+              "RelativeDocumentMoniker": "Baitap01\\clientTest_33.cs",
+              "ToolTip": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\clientTest_33.cs",
+              "RelativeToolTip": "Baitap01\\clientTest_33.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:08:35.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bai33.cs",
+              "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\bai33.cs",
+              "RelativeDocumentMoniker": "Baitap01\\bai33.cs",
+              "ToolTip": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\bai33.cs",
+              "RelativeToolTip": "Baitap01\\bai33.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:07:46.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "bai31.cs",
               "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\bai31.cs",
               "RelativeDocumentMoniker": "Baitap01\\bai31.cs",
               "ToolTip": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\bai31.cs",
               "RelativeToolTip": "Baitap01\\bai31.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:50:45.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bai32.cs",
+              "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\bai32.cs",
+              "RelativeDocumentMoniker": "Baitap01\\bai32.cs",
+              "ToolTip": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\bai32.cs",
+              "RelativeToolTip": "Baitap01\\bai32.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T03:53:17.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "bai30.cs",
               "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\bai30.cs",
               "RelativeDocumentMoniker": "Baitap01\\bai30.cs",
@@ -64,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "bai29.cs",
               "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\bai29.cs",
               "RelativeDocumentMoniker": "Baitap01\\bai29.cs",
@@ -77,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "bai28.cs",
               "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\bai28.cs",
               "RelativeDocumentMoniker": "Baitap01\\bai28.cs",
@@ -90,13 +158,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\Program.cs",
               "RelativeDocumentMoniker": "Baitap01\\Program.cs",
               "ToolTip": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#01 S\u00E1ch Algorithms Basic Programming Model\\Baitap01\\Baitap01\\Program.cs",
               "RelativeToolTip": "Baitap01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T03:17:16.262Z",
               "EditorCaption": ""

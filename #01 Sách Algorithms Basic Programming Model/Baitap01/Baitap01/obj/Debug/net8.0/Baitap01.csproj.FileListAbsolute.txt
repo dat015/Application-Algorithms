@@ -13,3 +13,6 @@ D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Progr
 D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\Baitap01.pdb
 D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\Baitap01.genruntimeconfig.cache
 D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\ref\Baitap01.dll
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\Baitap01.csproj.AssemblyReference.cache
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\bin\Debug\net8.0\System.Windows.Forms.DataVisualization.dll
+D:\ApplicationAlgorithms\Application-Algorithms\#01 Sách Algorithms Basic Programming Model\Baitap01\Baitap01\obj\Debug\net8.0\Baitap01.csproj.Up2Date
