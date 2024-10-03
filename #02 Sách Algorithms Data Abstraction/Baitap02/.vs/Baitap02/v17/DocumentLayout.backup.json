@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|d:\\applicationalgorithms\\application-algorithms\\#02 s\u00E1ch algorithms data abstraction\\baitap02\\baitap02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|solutionrelative:baitap02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|d:\\applicationalgorithms\\application-algorithms\\#02 s\u00E1ch algorithms data abstraction\\baitap02\\baitap02\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|solutionrelative:baitap02\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|d:\\applicationalgorithms\\application-algorithms\\#02 s\u00E1ch algorithms data abstraction\\baitap02\\baitap02\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|solutionrelative:baitap02\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|d:\\applicationalgorithms\\application-algorithms\\#02 s\u00E1ch algorithms data abstraction\\baitap02\\baitap02\\rationalwithbiginterger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|solutionrelative:baitap02\\rationalwithbiginterger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|d:\\applicationalgorithms\\application-algorithms\\#02 s\u00E1ch algorithms data abstraction\\baitap02\\baitap02\\accumulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|solutionrelative:baitap02\\accumulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|d:\\applicationalgorithms\\application-algorithms\\#02 s\u00E1ch algorithms data abstraction\\baitap02\\baitap02\\rational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|solutionrelative:baitap02\\rational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|d:\\applicationalgorithms\\application-algorithms\\#02 s\u00E1ch algorithms data abstraction\\baitap02\\baitap02\\bai15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB546CE6-2B7E-47E2-8735-A4E567606FFB}|Baitap02\\Baitap02.csproj|solutionrelative:baitap02\\bai15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\Transaction.cs",
+              "RelativeDocumentMoniker": "Baitap02\\Transaction.cs",
+              "ToolTip": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\Transaction.cs*",
+              "RelativeToolTip": "Baitap02\\Transaction.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:55:48.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Date.cs",
+              "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\Date.cs",
+              "RelativeDocumentMoniker": "Baitap02\\Date.cs",
+              "ToolTip": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\Date.cs*",
+              "RelativeToolTip": "Baitap02\\Date.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:54:58.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Accumulator.cs",
+              "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\Accumulator.cs",
+              "RelativeDocumentMoniker": "Baitap02\\Accumulator.cs",
+              "ToolTip": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\Accumulator.cs*",
+              "RelativeToolTip": "Baitap02\\Accumulator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:52:54.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RationalWithBigInterger.cs",
+              "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\RationalWithBigInterger.cs",
+              "RelativeDocumentMoniker": "Baitap02\\RationalWithBigInterger.cs",
+              "ToolTip": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\RationalWithBigInterger.cs",
+              "RelativeToolTip": "Baitap02\\RationalWithBigInterger.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:41:48.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rational.cs",
+              "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\Rational.cs",
+              "RelativeDocumentMoniker": "Baitap02\\Rational.cs",
+              "ToolTip": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\Rational.cs",
+              "RelativeToolTip": "Baitap02\\Rational.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:30:40.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bai15.cs",
+              "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\bai15.cs",
+              "RelativeDocumentMoniker": "Baitap02\\bai15.cs",
+              "ToolTip": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\bai15.cs",
+              "RelativeToolTip": "Baitap02\\bai15.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:24:29.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\Program.cs",
+              "RelativeDocumentMoniker": "Baitap02\\Program.cs",
+              "ToolTip": "D:\\ApplicationAlgorithms\\Application-Algorithms\\#02 S\u00E1ch Algorithms Data Abstraction\\Baitap02\\Baitap02\\Program.cs*",
+              "RelativeToolTip": "Baitap02\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:20:46.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

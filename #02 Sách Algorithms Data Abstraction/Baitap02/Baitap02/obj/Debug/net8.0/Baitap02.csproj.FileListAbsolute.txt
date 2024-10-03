@@ -1,0 +1,15 @@
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\bin\Debug\net8.0\Baitap02.exe
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\bin\Debug\net8.0\Baitap02.deps.json
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\bin\Debug\net8.0\Baitap02.runtimeconfig.json
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\bin\Debug\net8.0\Baitap02.dll
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\bin\Debug\net8.0\Baitap02.pdb
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\obj\Debug\net8.0\Baitap02.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\obj\Debug\net8.0\Baitap02.AssemblyInfoInputs.cache
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\obj\Debug\net8.0\Baitap02.AssemblyInfo.cs
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\obj\Debug\net8.0\Baitap02.csproj.CoreCompileInputs.cache
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\obj\Debug\net8.0\Baitap02.sourcelink.json
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\obj\Debug\net8.0\Baitap02.dll
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\obj\Debug\net8.0\refint\Baitap02.dll
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\obj\Debug\net8.0\Baitap02.pdb
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\obj\Debug\net8.0\Baitap02.genruntimeconfig.cache
+D:\ApplicationAlgorithms\Application-Algorithms\#02 Sách Algorithms Data Abstraction\Baitap02\Baitap02\obj\Debug\net8.0\ref\Baitap02.dll
